@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Question2day1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/18/2020 14:24:38</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Question3day1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/18/2020 14:33:23</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
